@@ -15,7 +15,7 @@ public class QuestaoL{
          System.out.println("[2] Secretário");
          System.out.println("[3] Caixa");
          System.out.println("[4] Gerente");
-         System.out.println("Diretor");
+         System.out.println("[5] Diretor");
          codigo = sc.nextInt();
         switch(codigo){
             case 1:
@@ -48,7 +48,7 @@ public class QuestaoL{
                 break;
             case 5:
                 System.out.println("_________________________");
-                System.out.println("GERENTE");
+                System.out.println("DIRETOR");
                 System.out.println("Você não tem aumento!");
                 break;
             default:
