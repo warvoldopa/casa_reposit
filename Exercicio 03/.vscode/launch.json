@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q2",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "Exercicio 03_9696594f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "Exercicio 03_9696594f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - letraA",
+            "request": "launch",
+            "mainClass": "letraA",
+            "projectName": "Exercicio 03_9696594f"
+        }
+    ]
+}
