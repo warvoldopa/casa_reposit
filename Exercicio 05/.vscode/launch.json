@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q8",
+            "request": "launch",
+            "mainClass": "Q8",
+            "projectName": "Exercicio 05_96965951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q6",
+            "request": "launch",
+            "mainClass": "Q6",
+            "projectName": "Exercicio 05_96965951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q7",
+            "request": "launch",
+            "mainClass": "Q7",
+            "projectName": "Exercicio 05_96965951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q4",
+            "request": "launch",
+            "mainClass": "Q4",
+            "projectName": "Exercicio 05_96965951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q3",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "Exercicio 05_96965951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q2",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "Exercicio 05_96965951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "Exercicio 05_96965951"
+        }
+    ]
+}
